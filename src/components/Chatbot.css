@@ -142,6 +142,7 @@
     font-size: 0.875rem;
     margin: 0 0 4px 0;
     line-height: 1.5;
+    white-space: pre-wrap;
 }
 
 .message-time {
