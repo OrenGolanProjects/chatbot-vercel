@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './ChatbotIcon.css';
+import './ChatBotIcon.css';
 
 interface ChatbotIconProps {
     onClick: () => void;
